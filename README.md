@@ -44,7 +44,7 @@ displays key performance indicators — Total Sales, Profit, and Top 5 Customers
 ```
 
 
-## ▶️ How to Run
+##  How to Run
 
 ```
 pip install -r requirements.txt
